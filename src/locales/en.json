@@ -9,5 +9,6 @@
     "Name": "Name",
     "Population": "Population",
     "Capital": "Capital",
-    "Details": "Details"
+    "Details": "Details",
+    "NoDetails": "No Details"
 }

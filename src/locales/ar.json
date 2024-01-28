@@ -9,5 +9,7 @@
     "Name": "الاسم",
     "Population": "السكان",
     "Capital": "العاصمة",
-    "Details": "تفاصيل"
+    "Details": "تفاصيل",
+    "NoDetails": "غير متوفر"
+    
 }
