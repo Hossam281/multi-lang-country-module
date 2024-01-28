@@ -1,0 +1,13 @@
+{
+    "CountryModule": "Country Module",
+    "AddCountry": "Add Country",
+    "EditCountry": "Edit Country",
+    "Cancel": "Cancel",
+    "ViewDetails": "View Details",
+    "noCountries": "No Countries found",
+    "Loading": "Loading...",
+    "Name": "Name",
+    "Population": "Population",
+    "Capital": "Capital",
+    "Details": "Details"
+}

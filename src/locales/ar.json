@@ -1,0 +1,13 @@
+{
+    "CountryModule": "إدارة الدول",
+    "AddCountry": "اضافة دولة",
+    "EditCountry": "تعديل الدولة",
+    "Cancel": "الغاء",
+    "ViewDetails": "عرض التفاصيل",
+    "noCountries": "لا يوجد دول",
+    "Loading": "جاري التحميل...",
+    "Name": "الاسم",
+    "Population": "السكان",
+    "Capital": "العاصمة",
+    "Details": "تفاصيل"
+}
