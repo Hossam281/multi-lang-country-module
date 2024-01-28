@@ -14,6 +14,9 @@ This Vue.js project is a multilanguage country module that utilizes **Firebase**
 
 # Demo
 You can try out Weatherify by visiting the live demo: 
+https://multi-lang-country-module.vercel.app/
+
+
 # Technologies
 Weatherify is built using the following technologies and APIs:
 
