@@ -7,7 +7,6 @@ This Vue.js project is a multilanguage country module that utilizes **Firebase**
 # Features
 - **Seamless integration with Firebase for backend data.**
 - **Multilanguage support powered by Vue I18n.** 
-
 - **Modern and responsive UI with Tailwind CSS and Headless UI components.** 
 
 
@@ -23,6 +22,7 @@ Weatherify is built using the following technologies and APIs:
 - **Vuejs**
 - **Tailwind css**
 - **Firestore**
+-  **Pinia Store For application-level state management**
 - **Git for version control**
 
 
